@@ -18,7 +18,7 @@
   margin-bottom: 30px;
   color: #fff;
 }
-.container .innerText .textBody .btn {
+.container .innerText .textBody .btnBar {
   margin-bottom: 20px;
   color: rgb(255, 255, 255);
   border: 1px solid #fff;
@@ -30,7 +30,7 @@
   transition: all 0.3s linear;
   margin-bottom: 20px;
 }
-.container .innerText .textBody .btn:hover {
+.container .innerText .textBody .btnBar:hover {
   color: #0e153a;
   background: #fff;
   border-radius: 10px;

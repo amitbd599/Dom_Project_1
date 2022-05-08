@@ -6,7 +6,7 @@ window.onload=()=>{
 
 function main(){
     let root= document.querySelector('.container');
-    let btn = document.querySelector('.btn');
+    let btn = document.querySelector('.btnBar');
 
     btn.addEventListener('click', function(){
       let bgColor= rgbColor();
